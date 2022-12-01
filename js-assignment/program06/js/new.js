@@ -1,6 +1,6 @@
 var number = parseInt(prompt("Enter a number: "));
- 
-   if (number % 5 == 0)
+
+   if (number%5 == 0)
    {
      alert("the number is divisible by 5")
    }
