@@ -13,4 +13,3 @@ else
 {
     document.write(num3);
 }
-alert(largest);

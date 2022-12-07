@@ -1,5 +1,5 @@
 var limit=parseInt(prompt("enter limit :"));
-for(i=limit;i>0;i--)
+for(i=300;i>limit;i--)
 {
 	document.write(i+"<br>")
 }

@@ -1,6 +1,5 @@
-var num1 = parseInt(prompt("Enter a number: "));
- 
-   if (num1>10)
+var number = parseInt(prompt("Enter a number: "));
+   if (number>10)
    {
      alert("number is greater than 10")
    }
